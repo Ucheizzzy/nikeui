@@ -123,8 +123,8 @@ export const footerLinks = [
   {
     title: 'Help',
     links: [
-      { name: 'About us', link: '/' },
-      { name: 'FAQs', link: '/' },
+      { name: 'About us', link: '#about-us' },
+      { name: 'FAQs', link: '#contact-us' },
       { name: 'How it works', link: '/' },
       { name: 'Privacy policy', link: '/' },
       { name: 'Payment policy', link: '/' },
